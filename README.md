@@ -234,7 +234,7 @@ El código es original. Se permiten referencias externas con la debida citación
 ## Autor
 
 **Nombres de los estudiantes:**
-- Rodrigo Solbes Davalos
+- Solbes Davalos Rodrigo
 - Izaguirre Cortes Emanuel
 - Rosales Pereles Denisse Ariadna
 - Morales Urrutia Javier Antonio
