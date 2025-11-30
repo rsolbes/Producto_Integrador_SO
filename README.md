@@ -233,7 +233,13 @@ El código es original. Se permiten referencias externas con la debida citación
 
 ## Autor
 
-**Nombres de los estudiantes:** Rodrigo Solbes, Emmanuel Izaguirre, Denisse Ariadna Rosales, Emiliano Izaguirre, Javier Antonio Morales. 
+**Nombres de los estudiantes:**
+- Rodrigo Solbes Davalos
+- Izaguirre Cortes Emanuel
+- Rosales Pereles Denisse Ariadna
+- Morales Urrutia Javier Antonio
+- Reyes Alejo Emiliano
+
 **Materia:** Sistemas Operativos  
 **Profesor:** Dante Adolfo Muñoz Quintero  
 **Semestre:** 7o  
@@ -261,18 +267,3 @@ El código es original. Se permiten referencias externas con la debida citación
 - Números más altos = mayor prioridad
 - Sin envejecimiento (starvation posible)
 - Útil para procesos críticos
-
-## Posibles Extensiones
-
-Ideas para mejorar el proyecto:
-
-1. Agregar más algoritmos de planificación (SRTF, Multilevel Queue)
-2. Implementar memoria virtual con paginación
-3. Agregar planificación de I/O
-4. Implementar algoritmo del banquero para deadlock
-5. Agregar interfaz gráfica (GTK+)
-6. Exportar logs y estadísticas a archivo
-7. Cargar procesos desde archivo de configuración
-8. Visualización con diagrama de Gantt
-
-¡Éxito en tu implementación!
