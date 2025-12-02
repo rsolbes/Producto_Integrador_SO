@@ -1,0 +1,311 @@
+[3J[H[2J✓ Configuración cargada desde config.ini
+
+╔════════════════════════════════════════════════════════════╗
+║     INICIALIZANDO SIMULADOR DE GESTOR DE MEMORIA           ║
+╚════════════════════════════════════════════════════════════╝
+
+✓ Memoria RAM inicializada: 2048 KB (8 marcos de 256 KB)
+✓ Área de Swap inicializada: 4096 KB (16 marcos de 256 KB)
+✓ TLB inicializada: 4 entradas
+✓ Algoritmo de reemplazo: FIFO
+
+
+Presione ENTER para continuar...
+╔════════════════════════════════════════════════════════════╗
+║        SIMULADOR DE GESTOR DE MEMORIA RAM Y SWAP          ║
+╠════════════════════════════════════════════════════════════╣
+║  GESTIÓN DE PROCESOS:                                      ║
+║   1. Crear nuevo proceso                                   ║
+║   2. Terminar proceso                                      ║
+║   3. Listar procesos activos                               ║
+║                                                            ║
+║  VISUALIZACIÓN DE MEMORIA:                                 ║
+║   4. Mostrar mapa de memoria (RAM y Swap)                  ║
+║   5. Mostrar tabla de páginas de un proceso                ║
+║   6. Mostrar estado de la TLB                              ║
+║                                                            ║
+║  OPERACIONES DE MEMORIA:                                   ║
+║   7. Simular acceso a página (swap in si es necesario)     ║
+║                                                            ║
+║  INFORMACIÓN Y ESTADÍSTICAS:                               ║
+║   8. Ver estadísticas del sistema                          ║
+║   9. Ver registro de eventos (logs)                        ║
+║  10. Guardar logs en archivo                               ║
+║                                                            ║
+║  11. Salir                                                 ║
+╚════════════════════════════════════════════════════════════╝
+
+Seleccione una opción: 
+═══════════════════════════════════════════════════════
+              CREAR NUEVO PROCESO
+═══════════════════════════════════════════════════════
+
+Ingrese el nombre del proceso: Ingrese el tamaño del proceso (KB): 
+✓ Proceso creado exitosamente:
+  PID: 1
+  Nombre: P1
+  Tamaño: 600 KB
+  Páginas: 3 (Tamaño de página: 256 KB)
+  Páginas en RAM: 3
+  Páginas en Swap: 0
+
+Presione ENTER para continuar...
+╔════════════════════════════════════════════════════════════╗
+║        SIMULADOR DE GESTOR DE MEMORIA RAM Y SWAP          ║
+╠════════════════════════════════════════════════════════════╣
+║  GESTIÓN DE PROCESOS:                                      ║
+║   1. Crear nuevo proceso                                   ║
+║   2. Terminar proceso                                      ║
+║   3. Listar procesos activos                               ║
+║                                                            ║
+║  VISUALIZACIÓN DE MEMORIA:                  [3J[H[2J[3J[H[2J               ║
+║   4. Mostrar mapa de memoria (RAM y Swap)                  ║
+║   5. Mostrar tabla de páginas de un proceso                ║
+║   6. Mostrar estado de la TLB                              ║
+║                                                            ║
+║  OPERACIONES DE MEMORIA:                                   ║
+║   7. Simular acceso a página (swap in si es necesario)     ║
+║                                                            ║
+║  INFORMACIÓN Y ESTADÍSTICAS:                               ║
+║   8. Ver estadísticas del sistema                          ║
+║   9. Ver registro de eventos (logs)                        ║
+║  10. Guardar logs en archivo                               ║
+║                                                            ║
+║  11. Salir                                                 ║
+╚════════════════════════════════════════════════════════════╝
+
+Seleccione una opción: 
+═══════════════════════════════════════════════════════
+              CREAR NUEVO PROCESO
+═══════════════════════════════════════════════════════
+
+Ingrese el nombre del proceso: Ingrese el tamaño del proceso (KB): 
+✓ Proceso creado exitosamente:
+  PID: 2
+  Nombre: P2
+  Tamaño: 768 KB
+  Páginas: 3 (Tamaño de página: 256 KB)
+  Páginas en RAM: 3
+  Páginas en Swap: 0
+
+Presione ENTER para continuar...
+╔════════════════════════════════════════════════════════════╗
+║        SIMULADOR DE GESTOR DE MEMORIA RAM Y SWAP          ║
+╠════════════════════════════════════════════════════════════╣
+║  GESTIÓN DE PROCESOS:                                      ║
+║   1. Crear nuevo proceso                                   ║
+║   2. Terminar proceso                                      ║
+║   3. Listar procesos activos                               ║
+║                                                            ║
+║  VISUALIZACIÓN DE MEMORIA:                                 ║
+║   4. Mostrar mapa de memoria (RAM y Swap)                  ║
+║   5. Mostrar tabla de páginas de un proceso                ║
+║   6. Mostrar estado de la TLB                              ║
+║                                                            ║
+║  OPERACIONES DE MEMORIA:                                   ║
+║   7. Simular acceso a página (swap in si es necesario)     ║
+║                                                            ║
+║  INFORMACIÓN Y ESTADÍSTICAS:                               ║
+║   8. Ver estadísticas del sistema                          ║
+║   9. Ver registro de eventos (logs)                        ║
+║  10. Guardar logs en archivo                               ║
+║                                                            ║
+║  11. Salir                                                 ║
+╚════════════════════════════════════════════════════════════╝
+
+Seleccione una opción: 
+═══════════════════════════════════════════════════════
+              CREAR NUEVO PROCESO
+═══════════════════════════════════════════════════════
+
+Ingrese el nombre del proceso: Ingrese el tamaño del proce[3J[H[2Jso (KB): 
+✓ Proceso creado exitosamente:
+  PID: 3
+  Nombre: P3
+  Tamaño: 512 KB
+  Páginas: 2 (Tamaño de página: 256 KB)
+  Páginas en RAM: 2
+  Páginas en Swap: 0
+
+Presione ENTER para continuar...
+╔════════════════════════════════════════════════════════════╗
+║        SIMULADOR DE GESTOR DE MEMORIA RAM Y SWAP          ║
+╠════════════════════════════════════════════════════════════╣
+║  GESTIÓN DE PROCESOS:                                      ║
+║   1. Crear nuevo proceso                                   ║
+║   2. Terminar proceso                                      ║
+║   3. Listar procesos activos                               ║
+║                                                            ║
+║  VISUALIZACIÓN DE MEMORIA:                                 ║
+║   4. Mostrar mapa de memoria (RAM y Swap)                  ║
+║   5. Mostrar tabla de páginas de un proceso                ║
+║   6. Mostrar estado de la TLB                              ║
+║                                                            ║
+║  OPERACIONES DE MEMORIA:                                   ║
+║   7. Simular acceso a página (swap in si es necesario)     ║
+║                                                            ║
+║  INFORMACIÓN Y ESTADÍSTICAS:                               ║
+║   8. Ver estadísticas del sistema                          ║
+║   9. Ver registro de eventos (logs)                        ║
+║  10. Guardar logs en archivo                               ║
+║                                                            ║
+║  11. Salir                                                 ║
+╚════════════════════════════════════════════════════════════╝
+
+Seleccione una opción: 
+═══════════════════════════════════════════════════════
+              CREAR NUEVO PROCESO
+═══════════════════════════════════════════════════════
+
+Ingrese el nombre del proceso: Ingrese el tamaño del proceso (KB): 
+✓ Proceso creado exitosamente:
+  PID: 4
+  Nombre: P4
+  Tamaño: 512 KB
+  Páginas: 2 (Tamaño de página: 256 KB)
+  Páginas en RAM: 0
+  Páginas en Swap: 2
+  ⚠️  Estado: SWAPPED (algunas páginas en swap debido a memoria RAM llena)
+
+Presione ENTER para continuar...
+╔════════════════════════════════════════════════════════════╗
+║        SIMULADOR DE GESTOR DE MEMORIA RAM Y SWAP          ║
+╠════════════════════════════════════════════════════════════╣
+║  GESTIÓN DE PROCESOS:                                      ║
+║   1. Crear nuevo proceso                                   ║
+║   2. Terminar proceso                                      ║
+║   3. Listar procesos activos                               ║
+║                                                            ║
+║  VISUALIZACIÓN DE MEMORIA:                                 ║
+║   4. Mostrar mapa de memoria (RAM y Swap)                  ║
+║   5. Mostrar tabla de páginas de un proceso                ║
+║   6. Mostrar estado de la TLB                              ║
+║                                                            ║
+║  OPERACIONES DE MEMORIA:                                   ║
+║   7. Simular acceso a página (swap in si es necesario)     ║
+║[3J[H[2J[3J[H[2J                                                            ║
+║  INFORMACIÓN Y ESTADÍSTICAS:                               ║
+║   8. Ver estadísticas del sistema                          ║
+║   9. Ver registro de eventos (logs)                        ║
+║  10. Guardar logs en archivo                               ║
+║                                                            ║
+║  11. Salir                                                 ║
+╚════════════════════════════════════════════════════════════╝
+
+Seleccione una opción: 
+╔════════════════════════════════════════════════════════════╗
+║                   ESTADO DEL SISTEMA                       ║
+╚════════════════════════════════════════════════════════════╝
+
+  PROCESOS ACTIVOS: 4
+
+  PID    Nombre               Tamaño      Páginas   Estado         
+  ------------------------------------------------------------------------
+  1      P1                   600          3          ACTIVO         
+  2      P2                   768          3          ACTIVO         
+  3      P3                   512          2          ACTIVO         
+  4      P4                   512          2          INTERCAMBIADO  
+
+  MEMORIA:
+  RAM: 8/8 marcos ocupados (100.0%)
+  Swap: 2/16 marcos ocupados (12.5%)
+
+Ingrese el PID del proceso: Ingrese el número de página a acceder: 
+--- Simulando acceso a Página 0 del Proceso 4 ---
+
+✗ TLB MISS: Página no encontrada en TLB
+  Consultando tabla de páginas...
+
+✗ PAGE FAULT: Página en Swap (posición 0)
+  Iniciando swap in...
+
+✓ Swap in completado exitosamente.
+  Página ahora en RAM (Marco 0)
+  TLB actualizada.
+
+Presione ENTER para continuar...
+╔════════════════════════════════════════════════════════════╗
+║        SIMULADOR DE GESTOR DE MEMORIA RAM Y SWAP          ║
+╠════════════════════════════════════════════════════════════╣
+║  GESTIÓN DE PROCESOS:                                      ║
+║   1. Crear nuevo proceso                                   ║
+║   2. Terminar proceso                                      ║
+║   3. Listar procesos activos                               ║
+║                                                            ║
+║  VISUALIZACIÓN DE MEMORIA:                                 ║
+║   4. Mostrar mapa de memoria (RAM y Swap)                  ║
+║   5. Mostrar tabla de páginas de un proceso                ║
+║   6. Mostrar estado de la TLB                              ║
+║                                                            ║
+║  OPERACIONES DE MEMORIA:                                   ║
+║   7. Simular acceso a página (swap in si es necesario)     ║
+║                                                            ║
+║  INFORMACIÓN Y ESTADÍSTICAS:                               ║
+║   8. Ver estadísticas del sistema                          ║
+║   9. Ver registro de eventos (logs)                        ║
+║  10. Guardar logs en archivo                               ║
+║                                                            ║
+║  11. Salir                                                 ║
+╚════════════════════════════════════════════════════════════╝
+
+Seleccione una opción: 
+╔════════════════════════════════════════════════════════════╗
+║                    MAPA DE MEMORIA RAM                     ║
+╚════════════════════════════════════════════════════════════╝
+
+  [Marco  0] Proceso 4, Página 0
+  [Marco  1] Proceso 1, Página 1
+  [Marco  2] Proceso 1, Página 2
+  [Marco  3] Proceso 2, Página 0
+  [Marco  4] Proceso 2, Página 1
+  [Marco  5] Proceso 2, Página 2
+  [Marco  6] Proceso 3, Página 0
+  [Marco  7] Proceso 3, Página 1
+
+  Total marcos RAM: 8 | Libres: 0 | Ocupados: 8
+  Utilización: 100.00%
+
+╔════════════════════════════════════════════════════════════╗
+║                   MAPA DE ÁREA DE SWAP                     ║
+╚════════════════════════════════════════════════════════════╝
+
+  [Swap  1] Proceso 4, Página 1
+  [Swap  2] Proceso 1, Página 0
+
+  Total marcos Swap: 16 | Libres: 14 | Ocupados: 2
+  Utilización: 12.50%
+
+Presione ENTER para continuar...
+╔════════════════════════════════════════════════════════════╗
+║        SIMULADOR DE GESTOR DE MEMORIA RAM Y SWAP          ║
+╠════════════════════════════════════════════════════════════╣
+║  GESTIÓN DE PROCESOS:                                      ║
+║   1. Crear nuevo proceso                                   ║
+║   2. Terminar proceso                                      ║
+║   3. Listar procesos activos                               ║
+║                                                            ║
+║  VISUALIZACIÓN DE MEMORIA:                                 ║
+║   4. Mostrar mapa de memoria (RAM y Swap)                  ║
+║   5. Mostrar tabla de páginas de un proceso                ║
+║   6. Mostrar estado de la TLB                              ║
+║                                                            ║
+║  OPERACIONES DE MEMORIA:                                   ║
+║   7. Simular acceso a página (swap in si es necesario)     ║
+║                                                            ║
+║  INFORMACIÓN Y ESTADÍSTICAS:                               ║
+║   8. Ver estadísticas del sistema                          ║
+║   9. Ver registro de eventos (logs)                        ║
+║  10. Guardar logs en archivo                               ║
+║                                                            ║
+║  11. Salir                                                 ║
+╚════════════════════════════════════════════════════════════╝
+
+Seleccione una opción: 
+¿Está seguro de que desea salir? (1=Sí, 0=No): ✓ Logs guardados en: memory_simulator_log_20251202_154911.txt
+
+╔════════════════════════════════════════════════════════════╗
+║             ¡Gracias por usar el simulador!               ║
+╚════════════════════════════════════════════════════════════╝
+
+
+✓ Sistema liberado correctamente.
